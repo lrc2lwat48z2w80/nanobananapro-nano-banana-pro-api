@@ -6,7 +6,7 @@
 
 > **default $0.03; 4K $0.04** — flat per-unit billing through the OpenAI-compatible APIMart gateway, $1 minimum top-up.
 
-**[Live pricing](https://apimart.ai/pricing)** · **[Get an API key](https://apimart.ai/keys)**
+**[Live pricing](https://go.apimart.ai/k-e3ec2c)** · **[Get an API key](https://go.apimart.ai/k-a35635)**
 
 Everything here refers to **nano-banana-pro** — also written **nanobananapro** or **nano banana pro**.
 
