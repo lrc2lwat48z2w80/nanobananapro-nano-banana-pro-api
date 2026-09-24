@@ -1,0 +1,13 @@
+{
+  "repo": "nanobananapro-nano-banana-pro-api",
+  "model": "gemini-3-pro-image-preview",
+  "display": "Nano Banana Pro",
+  "variant": "api",
+  "snapshot": "2026-09-24",
+  "unit": "usd_per_image",
+  "tiers": {
+    "default": 0.03,
+    "4K": 0.04
+  },
+  "source": "https://apimart.ai/en/pricing"
+}
